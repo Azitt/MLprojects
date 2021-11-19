@@ -1,1 +1,1 @@
-# MLprojects
+# tinyMLprojects/notebooks
